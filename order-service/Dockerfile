@@ -4,7 +4,6 @@
 FROM maven:3.8.6-openjdk-17 AS build
 
 
-
 # 设置工作目录
 WORKDIR /app
 
